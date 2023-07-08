@@ -18,7 +18,7 @@ environment:
   VISION-SCENE: "true"
   MODELSTORE-DETECTION: "true"
   TZ: ""
-image: codeproject/codeproject-ai-rpi-{arch}
+image: ghcr.io/judahrand/hassio-addon-codeproject.ai/codeproject-ai-rpi-{arch}
 devices:
   - /dev/video10
   - /dev/video0

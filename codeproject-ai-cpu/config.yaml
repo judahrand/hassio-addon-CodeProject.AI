@@ -19,4 +19,4 @@ environment:
   VISION-SCENE: "true"
   MODELSTORE-DETECTION: "true"
   TZ: ""
-image: codeproject/codeproject-ai-cpu-{arch}
+image: ghcr.io/judahrand/hassio-addon-codeproject.ai/codeproject-ai-cpu-{arch}

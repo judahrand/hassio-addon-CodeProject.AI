@@ -18,5 +18,5 @@ environment:
   VISION-SCENE: "true"
   MODELSTORE-DETECTION: "true"
   TZ: ""
-image: ghcr.io/judahrand/hassio-addon-codeproject.ai/codeproject-ai-gpu-{arch}
+image: ghcr.io/judahrand/hassio-addon-codeproject-ai/codeproject-ai-gpu-{arch}
 video: True

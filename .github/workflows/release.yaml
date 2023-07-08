@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  REGISTRY: ghcr.io/judahrand/hassio-addon-codeproject.ai
+  REGISTRY: ghcr.io/judahrand/hassio-addon-codeproject-ai
 
 jobs:
   publish:

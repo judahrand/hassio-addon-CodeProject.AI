@@ -17,7 +17,7 @@ panel_admin: false
 panel_icon: "mdi:robot"
 panel_title: CodeProject.AI
 ports:
-  32168/tcp: null
+  32168/tcp: 32168
 ports_description:
   32168/tcp: "Port of your CodeProject.AI server"
 environment:
